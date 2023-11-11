@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8a91caa45601f2d4f8396635139ec3f8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206867
+  packageName: Shion
+  packageVersion: 1.01
+  assetPath: Assets/Shion/Scripts/ShionController.cs
+  uploadId: 517718

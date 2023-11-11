@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a9117e2fa90704d45b3e1461596c11ee
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.18.3
+  assetPath: Assets/Naninovel/Prefabs/FX/Rain.prefab
+  uploadId: 623407

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 519fd22a420253043a8170e0645f1910
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.18.3
+  assetPath: Assets/Naninovel/Resources/Naninovel/Shaders/RevealableText.shader
+  uploadId: 623407

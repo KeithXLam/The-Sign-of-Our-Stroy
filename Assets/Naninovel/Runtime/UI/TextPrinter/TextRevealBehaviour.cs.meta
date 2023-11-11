@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 66066f9407cf25f4290c8add35e2c178
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.18.3
+  assetPath: Assets/Naninovel/Runtime/UI/TextPrinter/TextRevealBehaviour.cs
+  uploadId: 623407

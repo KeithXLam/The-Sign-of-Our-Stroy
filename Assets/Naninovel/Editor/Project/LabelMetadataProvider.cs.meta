@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 159c2b498c9342a6a1907cdb3a7d85ae
+timeCreated: 1654617361
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.18.3
+  assetPath: Assets/Naninovel/Editor/Project/LabelMetadataProvider.cs
+  uploadId: 623407

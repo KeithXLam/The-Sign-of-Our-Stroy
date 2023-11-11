@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 48d613e80cce5094fae1b51a853446ae
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.18.3
+  assetPath: Assets/Naninovel/Resources/Naninovel/Shaders/RevealableTMProSprite.shader
+  uploadId: 623407

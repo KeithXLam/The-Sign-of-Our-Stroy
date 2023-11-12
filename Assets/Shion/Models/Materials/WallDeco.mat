@@ -45,6 +45,10 @@ Material:
         m_Texture: {fileID: 2800000, guid: 301c0a43eb0525446a267039b8256d3c, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _AlphaTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _BakedNormal:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -139,6 +143,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - PixelSnap: 0
     - _1st2nd_Shades_Feather: 0.0001
     - _1st_ShadeColor_Feather: 0.0001
     - _1st_ShadeColor_Step: 0.5
@@ -166,6 +171,7 @@ Material:
     - _DstBlend: 0
     - _DstBlendAlpha: 0
     - _EMISSIVE: 0
+    - _EnableExternalAlpha: 0
     - _Farthest_Distance: 100
     - _GI_Intensity: 0
     - _GlossMapScale: 1
@@ -245,6 +251,7 @@ Material:
     - _Unlit_Intensity: 1
     - _Use_1stAs2nd: 0
     - _Use_BaseAs1st: 0
+    - _WireThickness: 100
     - _ZWrite: 1
     - _simpleUI: 0
     - _utsTechnique: 0
@@ -261,6 +268,7 @@ Material:
     - _HighColor: {r: 0.2830189, g: 0.25358224, b: 0.19891421, a: 1}
     - _MatCapColor: {r: 1, g: 1, b: 1, a: 1}
     - _Outline_Color: {r: 0.2509804, g: 0.19607845, b: 0.1764706, a: 1}
+    - _RendererColor: {r: 1, g: 1, b: 1, a: 1}
     - _RimLightColor: {r: 0.24528301, g: 0.16545033, b: 0.16545033, a: 1}
     - _ViewShift: {r: 0, g: 0, b: 0, a: 1}
   m_BuildTextureStacks: []

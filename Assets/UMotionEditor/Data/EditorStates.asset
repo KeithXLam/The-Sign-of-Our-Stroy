@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   GeneralStates:
     LoadedProjectGUID:
-      valueInternal: d57444155d06f6245bf1573f95ed387d
+      valueInternal: 
     RecentlyOpenedProjectPath:
       valueInternal: Assets\Shion\Clips
     RecentlyOpenedProjectGUIDsList:

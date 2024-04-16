@@ -1,19 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!114 &11400000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 215c93be48f488241975eb2d98a6906a, type: 3}
-  m_Name: 1
-  m_EditorClassIdentifier: 
-  sentences:
-  - text: "\u65E9\u5B89,\u4ECA\u5929\u8B93\u6211\u6559\u4F60\"\u65E9\u5B89\"\u7684\u624B\u8A9E\u5427\u3002"
-    speaker: {fileID: 0}
-  background: {fileID: 21300000, guid: 15436fb055df5af4f9d2a66896814ccb, type: 3}
-  nextScene: {fileID: 0}
+version https://git-lfs.github.com/spec/v1
+oid sha256:29ab2aeaf26555c03d61762beda85da468afc4ef5a2080d751d85fa394e86501
+size 861

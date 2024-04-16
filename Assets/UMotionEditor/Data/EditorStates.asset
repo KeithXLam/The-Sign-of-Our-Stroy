@@ -1,21 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!114 &11400000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: -1252790098, guid: 448d62fcada76fd4ab5702190add98fd, type: 3}
-  m_Name: EditorStates
-  m_EditorClassIdentifier: 
-  GeneralStates:
-    LoadedProjectGUID:
-      valueInternal: 
-    RecentlyOpenedProjectPath:
-      valueInternal: Assets\Shion\Clips
-    RecentlyOpenedProjectGUIDsList:
-    - valueInternal: d57444155d06f6245bf1573f95ed387d
+version https://git-lfs.github.com/spec/v1
+oid sha256:9109685032db54b2febac0d05478dddf601d691e89b5e5a16f896dfff2a64d9b
+size 659
